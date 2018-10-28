@@ -23,7 +23,7 @@
       {
         "network": "whatsapp",
         "username": "WhatsApp",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "https://api.whatsapp.com/send?phone=421949639441"
       },
       {
         "network": "skype",
