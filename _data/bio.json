@@ -6,9 +6,7 @@
     "email": "molly@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://mmaluhia.github.io",
-    "summary": "Věnuji se webovým technologiím – vytvářím webové stránky, zajímám se o SEO – optimalizaci pro vyhledávače, redakční systémy (především WordPress) a internetové obchody (e-shopy).
-
-Při své práci používám HTML5, CSS3, LESS, PHP, Nette, MySQL, jQuery, Twitter Bootstrap, WordPress a další nástroje.",
+    "summary": "Venujem sa webovým technológiám - vytváram webové stránky, zaujímam sa o SEO - optimalizáciu pre vyhľadávače, redakčné systémy (predovšetkým WordPress,Joomla) a internetové obchody (e-shopy).",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -41,19 +39,19 @@ Při své práci používám HTML5, CSS3, LESS, PHP, Nette, MySQL, jQuery, Twitt
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "HTML5, CSS3, LESS, PHP, MySQL",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "jQuery, Twitter Bootstrap",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Prestashop,Wordpress",
       "keywords": [
       ]
     }
