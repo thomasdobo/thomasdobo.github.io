@@ -17,22 +17,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "thomasdobo",
+        "username": "GitHub",
         "url": "https://github.com/thomasdobo"
       },
       {
         "network": "whatsapp",
-        "username": "mollymaluhia",
+        "username": "WhatsApp",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "skype",
-        "username": "rulez_11",
+        "username": "Skype",
         "url": "skype:rulez_11?call"
       },
       {
         "network": "instagram",
-        "username": "thomasdobo",
+        "username": "Instagram",
         "url": "http://instagram.com/thomasdobo"
       }
     ]
