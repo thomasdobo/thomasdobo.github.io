@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Micromouse
-permalink: http://elektronka.sk/
+permalink: //elektronka.sk/
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
