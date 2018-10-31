@@ -28,6 +28,9 @@ body {
   color: darken(lightsteelblue, 20%);
 }
 
+.ui.fluid.centered.card  {
+ max-width: 538px !important;
+}
 
 @-webkit-keyframes Gradient {
 	0% {
