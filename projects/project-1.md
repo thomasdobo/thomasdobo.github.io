@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Micromouse
-[UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html)
+permalink: http://www-ee.eng.hawaii.edu/~mmouse/about.html
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
