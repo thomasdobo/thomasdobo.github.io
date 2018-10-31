@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Micromouse
-website: www-ee.eng.hawaii.edu/~mmouse/about.html
+external_url: http://robots.thoughtbot.com/post/12345/external-posts-in-jekyll
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
