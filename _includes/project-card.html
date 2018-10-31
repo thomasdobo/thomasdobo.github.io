@@ -27,8 +27,9 @@
     {% if page.projecturl %}
       <a class="ui bottom attached button" href="">Read More</a>
     {% else %}
-      
-      <a class="ui bottom attached button" href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}Odkaz na web</a>
+      <a class="ui bottom attached button" <a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
+}}Odkaz na web</a>
+  
     {% endif %}  
 
 </div>
