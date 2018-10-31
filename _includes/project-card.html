@@ -25,9 +25,8 @@
     </div>
   </div>
     
-      <a class="ui bottom attached button" href="">Read More</a>
-    {% else %}
-  <a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
+  
+  <a class="ui bottom attached button" href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
 }}>Read More</a>
   
 
