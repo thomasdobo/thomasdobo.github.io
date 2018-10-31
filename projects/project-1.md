@@ -4,6 +4,7 @@ type: project
 image: images/micromouse.jpg
 title: Micromouse
 permalink: //elektronka.sk/
+"website": "http://www.hawaii.edu/its/"
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
