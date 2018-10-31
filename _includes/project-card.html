@@ -24,10 +24,11 @@
       {% endfor %}
     </div>
   </div>
-    {% if page.projecturl %}
+    
       <a class="ui bottom attached button" href="">Read More</a>
     {% else %}
-   <a class="ui bottom attached button" href="{{ page_link | absolute_url }}">Read More</a>
-    {% endif %}  
+  <a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
+}}>Read More</a>
+  
 
 </div>
