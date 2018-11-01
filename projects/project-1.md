@@ -5,7 +5,7 @@ image: images/hb.jpg
 title: Micromouse
 external_url: http://hrybazar.cz
 # All dates must be YYYY-MM-DD format!
-date: 01-08-2018
+date: 2018-08-05
 labels:
   - Robotics
   - Arduino
