@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/hrybazar.jpg
 title: Micromouse
 external_url: http://elektronka.sk
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-08-01
 labels:
   - Robotics
   - Arduino
