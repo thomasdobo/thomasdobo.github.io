@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hrybazar.jpg
 title: Micromouse
-external_url: http://elektronka.sk
+external_url: http://hrybazar.cz
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-01
 labels:
