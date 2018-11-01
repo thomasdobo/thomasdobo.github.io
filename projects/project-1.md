@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/hrybazar.jpg
+image: images/hb.jpg
 title: Micromouse
 external_url: http://hrybazar.cz
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-01
+date: 01-08-2018
 labels:
   - Robotics
   - Arduino
