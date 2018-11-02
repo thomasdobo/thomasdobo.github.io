@@ -9,6 +9,6 @@ date: 2018-08-05
 labels:
   - Prestashop 1.6
   - XML import cron
-summary:-  responsívní design<br />-  33 776 produktů <br /> platební brána 
+summary: &#9679;responsívní design<br />-  33 776 produktů <br /> platební brána 
 ---
 
