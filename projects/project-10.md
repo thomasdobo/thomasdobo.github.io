@@ -9,7 +9,7 @@ date: 2017-11-11
 labels:
   - WordPresw
   - rezponzívní design
-summary: • One landing page <br />• responzivní web design<br />
+summary: • One page landing<br />• responzivní web design<br />
 ---
 
 
