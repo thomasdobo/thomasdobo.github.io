@@ -9,7 +9,7 @@ date: 2018-05-10
 labels:
   - Wordpress
   - Responsívní desgin
-summary: • Rozcestník základních neurologických onemocnění a poruch souvisejících s postižením mozku. <br />• responzivní web design<br />
+summary: • Rozcestník základních neurologických onemocnění a poruch souvisejících s postižením mozku. <br />
 ---
 
 
