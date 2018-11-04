@@ -8,7 +8,7 @@ external_url: http://studio120.eu
 date: 2018-05-10
 labels:
   - Wordpress
-  - Design dle zadání
+  - Cusstom design dle zadání
 summary: • Váš partner pro aktivní životní styl <br /> • Měnit lidem životy nejlepšími produkty pro výživu a regulaci váhy na světě
 ---
 
