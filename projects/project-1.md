@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hbazar.jpg
+image: images/hbb.jpg
 title: Hrybazar.cz
 external_url: http://hrybazar.cz
 # All dates must be YYYY-MM-DD format!
