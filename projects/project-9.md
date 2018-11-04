@@ -8,7 +8,7 @@ external_url: http://visime.cz
 date: 2018-05-10
 labels:
   - Wordpress
-  - Design dle zadání
+  - Design podle zadání
 summary: • Veškeré práce ve výškách za pomoci horolezecké techniky <br /> • bez použití drahých plošin, jeřábů či lešení.
 
 ---
