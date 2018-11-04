@@ -5,10 +5,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Portfolio</title>
         <meta name="description" content="">
-        <link rel="stylesheet" href="portfolio.jquery.css">
+        <link rel="stylesheet" href="http://thomasdobo.eu/portfolio.jquery.css">
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-        <script src="portfolio.jquery.js"></script>
+        <script src="http://thomasdobo.eu/portfolio.jquery.js"></script>
 
         <script>
             $(document).ready(function() {
