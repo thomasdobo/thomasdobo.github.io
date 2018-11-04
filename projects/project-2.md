@@ -9,5 +9,5 @@ date: 2017-11-11
 labels:
   - Prestashop 1.6
   - XML import cron
-summary: • eshop <br />• responzivní web design<br />•  Quatro splátky <br /> 
+summary: • eshop <br />• responzivní web design<br />•  Quatro splátkový systém <br /> 
 ---
