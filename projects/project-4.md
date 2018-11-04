@@ -9,7 +9,7 @@ date: 2017-11-11
 labels:
   - WordPress
   - rezponzívní design
-  - classifieds 
+  - Classifieds CMS
 summary: • Inzertní web pro apple zařízení />• responzivní web design<br />
 ---
 
