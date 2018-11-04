@@ -10,7 +10,7 @@ labels:
   - WordPress
   - rezponzívní design
   - classifieds 
-summary: • Inzertní web pro pple zařízení />• responzivní web design<br />
+summary: • Inzertní web pro apple zařízení />• responzivní web design<br />
 ---
 
 
