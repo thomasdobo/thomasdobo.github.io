@@ -9,5 +9,5 @@ date: 2017-11-11
 labels:
   - Prestashop 1.6
   - XML import cron
-summary: • eshop <br />• responzivní web design<br />•  33 776 produktů <br /> • platební brána 
+summary: • eshop <br />• responzivní web design<br />•  Quatro splátky <br /> 
 ---
