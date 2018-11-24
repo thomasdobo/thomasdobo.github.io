@@ -18,6 +18,10 @@ body {
 	background: linear-gradient(135deg, rgba(26, 188, 156, 1) 0%, rgba(142, 68, 173, 1) 100%);
 	//background-repeat: no-repeat;
        // background-size: 115% 1200px;
+	background-position: center center;
+	background-repeat:  no-repeat;
+	background-attachment: fixed;
+	background-size:  cover;
 }
 
 
