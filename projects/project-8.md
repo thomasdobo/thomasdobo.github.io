@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/studio.jpg
-title: Studio120.eu
-external_url: http://studio120.eu
+image: images/energyclub.jpg
+title: Energyclub24.cz
+external_url: http://energyclub24.cz
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-10
 labels:
   - Wordpress
-  - Dizajn podle zadání
-summary: • Váš partner pro aktivní životní styl <br /> • Měnit lidem životy nejlepšími produkty pro výživu a regulaci váhy na světě
+  - Responsívní design
+  - Onepage
+summary: • Osobní výživový plán a jídelníček <br /> • Komplexní programy zdravého hubnutí na úkor tuků, nikoliv svalové hmoty
 ---
 
 
