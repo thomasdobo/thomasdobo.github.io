@@ -5,7 +5,7 @@ image: images/daniel.jpg
 title: Danieljahoda24.cz
 external_url: http://danieljahoda24.cz
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-10
+date: 2018-06-08
 labels:
   - Wordpress
   - Responsívní design
