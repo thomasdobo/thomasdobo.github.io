@@ -5,7 +5,7 @@ image: images/wood.jpg
 title: Wood-flow.com
 external_url: http://wood-flow.com
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-10
+date: 2018-07-10
 labels:
   - WordPress
   - Responzívní design
