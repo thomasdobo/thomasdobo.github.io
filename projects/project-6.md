@@ -5,7 +5,7 @@ image: images/studio.jpg
 title: Studio120.eu
 external_url: http://studio120.eu
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-10
+date: 2017-10-05
 labels:
   - Wordpress
   - Design dle zadání
