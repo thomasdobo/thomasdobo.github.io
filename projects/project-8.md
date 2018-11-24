@@ -10,7 +10,7 @@ labels:
   - Wordpress
   - Responsívní design
   - Onepage
-summary: • Osobní výživový plán a jídelníček <br /> • Komplexní programy zdravého hubnutí na úkor tuků, nikoliv svalové hmoty
+summary: • Osobní výživový plán a jídelníček <br /> • Komplexní programy zdravého hubnutí 
 ---
 
 
