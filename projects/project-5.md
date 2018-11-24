@@ -8,7 +8,7 @@ external_url: http://neuroportal.cz
 date: 2018-07-20
 labels:
   - Wordpress
-  - Responsívní desgin
+  - Responzivní desgin
 summary: • Rozcestník základních neurologických onemocnění a poruch souvisejících s postižením mozku. <br />
 ---
 
