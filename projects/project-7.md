@@ -8,7 +8,7 @@ external_url: http://wood-flow.com
 date: 2018-07-10
 labels:
   - WordPress
-  - Responzívní design
+  - Responzivní design
 summary: • Umělecké Řezbářství ,Dřevo, Ručně vyřezávané rámy ,Design ze dřeva, Historický styl, Barokní styl, Reliéfy
 ---
 
