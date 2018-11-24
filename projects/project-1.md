@@ -5,7 +5,7 @@ image: images/hbb.jpg
 title: Hrybazar.cz
 external_url: http://hrybazar.cz
 # All dates must be YYYY-MM-DD format!
-date: 2018-17-11
+date: 2018-11-04
 labels:
   - PrestaShop 1.6
   - XML import cron
