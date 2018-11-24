@@ -7,9 +7,9 @@ external_url: http://yakna.cz
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-30
 labels:
-  - WordPresw
-  - rezponzívní design
-summary: • One page landing<br />• responzivní web design<br />
+  - WordPres
+  - Responzivní design
+summary: • Landing page<br />• Responzivní web design<br />
 ---
 
 
