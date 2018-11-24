@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/visime.jpg
-title: Visime.cz
+title: Visíme.cz
 external_url: http://visime.cz
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-10
