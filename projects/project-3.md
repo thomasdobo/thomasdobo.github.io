@@ -8,8 +8,8 @@ external_url: http://danieljahoda24.cz
 date: 2018-08-06
 labels:
   - Wordpress
-  - Responsívní design
-  - Onepage
+  - Responzivní design
+  - Landing page
 summary: • Nezávislý Herbalife distributor <br /> • Požádej o svůj 6-ti denní balíček
 ---
 
