@@ -8,9 +8,8 @@ external_url: http://mac-bazar.cz
 date: 2017-11-11
 labels:
   - WordPress
-  - rezponzívní design
   - Classifieds CMS
-summary: • Inzertní web pro apple zařízení />• responzivní web design<br />
+summary: • Inzertní web pro apple zařízení 
 ---
 
 
