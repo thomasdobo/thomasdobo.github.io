@@ -9,7 +9,7 @@ date: 2018-05-10
 labels:
   - Wordpress
   - Design podle zadání
-summary: • Veškeré práce ve výškách za pomoci horolezecké techniky <br /> • bez použití drahých plošin, jeřábů či lešení.
+summary: • Práce ve výškách za pomoci horolezecké techniky <br /> • bez použití drahých plošin, jeřábů či lešení.
 
 ---
 
