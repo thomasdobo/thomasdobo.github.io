@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bproof.jpg
+image: images/bodyproof.jpg
 title: Bodyproof.eu
 external_url: http://bodyproof.eu
 # All dates must be YYYY-MM-DD format!
