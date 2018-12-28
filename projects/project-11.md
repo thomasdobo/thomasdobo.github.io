@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/energyclub.jpg
+image: images/bodyproof.jpg
 title: Energyclub24.cz
 external_url: http://energyclub24.cz
 # All dates must be YYYY-MM-DD format!
