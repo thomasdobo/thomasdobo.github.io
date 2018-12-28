@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/bodyproof.jpg
-title: Energyclub24.cz
-external_url: http://energyclub24.cz
+title: Bodyproof.eu
+external_url: http://bodyproof.eu
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-02
 labels:
   - Wordpress
+  - WooCommerce
   - Responsívní design
-  - Onepage
-summary: • Osobní výživový plán a jídelníček <br /> • Komplexní programy zdravého hubnutí 
+summary: • Eshop <br /> • Vysoce kvalitní fitness oblečení a příslušenství
 ---
 
